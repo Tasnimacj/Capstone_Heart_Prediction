@@ -4,9 +4,13 @@
 
 ### Project Overview
 
-... 
-...
-...
+Can we predict whether patients suffered from heart disease using other variables?
+
+
+Patients of all ages and sex can suffer from heart disease. With this project, I want to see if there are underlying conditions that can increase a patient's chance of suffering from heart disease.
+
+We can use machine learning to see underlying causes of Heart disease, whether some patients are more likely and why. If we can see links between certain attributes, lifestyle choices and heart disease, we can inform the general population on how to lessen their heart disease chances.
+
 
 ### Walkthrough Demo
 
@@ -27,8 +31,9 @@
 ...
 
 * `data` 
-    - contains link to copy of the dataset (stored in a publicly accessible Google Drive folder)
-    - saved copy of aggregated / processed data as long as those are not too large (> 10 MB)
+    - Link to dataset used: 
+    https://drive.google.com/drive/folders/1_hFiY3zGFq9IBhDHapgpwVWBfYq4bYRI?usp=drive_link 
+    - 
 
 * `model`
     - joblib dump of final model / model object
