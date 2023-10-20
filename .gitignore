@@ -1,6 +1,7 @@
 # don't upload data files
 *.csv
 /data
+*.DS_Store
 
 # Jupyter Notebook
 .ipynb_checkpoints
