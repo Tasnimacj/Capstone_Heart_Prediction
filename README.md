@@ -20,7 +20,7 @@ We can use machine learning to see underlying causes of Heart disease, whether s
 
 ### Project Flowchart
 
-...
+...![Flowchart](~Desktop/flowchart.png)
 ...
 ...
 
@@ -40,12 +40,6 @@ We can use machine learning to see underlying causes of Heart disease, whether s
 
 * `notebooks`
     - contains all final notebooks involved in the project
-
-* `reports`
-    - contains final report which summarises the project
-
-* `references`
-    - contains papers / tutorials used in the project
 
 * `src`
     - Contains the project source code (refactored from the notebooks)
@@ -67,8 +61,8 @@ We can use machine learning to see underlying causes of Heart disease, whether s
 
 ### Dataset
 
-...
-...
+... Original Data is hosted on Kaggle by Kamil Pytlak
+... https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data 
 ...
 
 ### Credits & References
