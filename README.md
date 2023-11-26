@@ -11,6 +11,7 @@ Patients of all ages and sex can suffer from heart disease. With this project, I
 
 We can use machine learning to see underlying causes of Heart disease, whether some patients are more likely and why. If we can see links between certain attributes, lifestyle choices and heart disease, we can inform the general population on how to lessen their heart disease chances.
 
+I will treat the 'HadAngina' column as my target variable for my classification problem. I will try different models to see what features are useful to predict whether a patient is at risk of heart disease. 
 
 ### Walkthrough Demo
 
@@ -20,9 +21,8 @@ We can use machine learning to see underlying causes of Heart disease, whether s
 
 ### Project Flowchart
 
-...![Flowchart](~Desktop/flowchart.png)
-...
-...
+![Flowchart](flowchart.png)
+
 
 ### Project Organization
 
@@ -33,13 +33,15 @@ We can use machine learning to see underlying causes of Heart disease, whether s
 * `data` 
     - Link to dataset used: 
     https://drive.google.com/drive/folders/1_hFiY3zGFq9IBhDHapgpwVWBfYq4bYRI?usp=drive_link 
-    - 
 
 * `model`
     - joblib dump of final model / model object
 
 * `notebooks`
-    - contains all final notebooks involved in the project
+    - Contains all final notebooks involved in the project
+
+* `Presentations`
+    - Contains all presentations as pdf files
 
 * `src`
     - Contains the project source code (refactored from the notebooks)
@@ -50,9 +52,6 @@ We can use machine learning to see underlying causes of Heart disease, whether s
 * `capstine_env.yml`
     - Conda environment specification
 
-* `Makefile`
-    - Automation script for the project
-
 * `README.md`
     - Project landing page (this page)
 
@@ -62,13 +61,12 @@ We can use machine learning to see underlying causes of Heart disease, whether s
 ### Dataset
 
 ... Original Data is hosted on Kaggle by Kamil Pytlak
+
 ... https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data 
-...
 
 ### Credits & References
 
-...
-...
-...
+ Brainstation Data Science Notebooks
+
 
 --------
